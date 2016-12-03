@@ -1,4 +1,4 @@
-# Led Blink using embedded elixir on a Raspberry 3
+# Led Blink using embedded Elixir on a Raspberry 3
 
 ## Hardware
 
