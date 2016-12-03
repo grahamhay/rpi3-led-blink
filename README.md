@@ -18,7 +18,7 @@ framework.
 ❯ brew install fwup squashfs coreutils
 
 ❯ mix local.hix
-> mix local.rebar3
+❯ mix local.rebar3
 
 ❯ mix archive.install \
 https://github.com/nerves-project/archives/raw/master/nerves_bootstrap.ez
