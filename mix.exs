@@ -31,8 +31,7 @@ defmodule Rpi3LedBlink.Mixfile do
     [
       {:nerves, "~> 0.3"},
       {:nerves_leds, "~> 0.7.0"},
-      {:relx, "3.11.0", override: true},
-      {:erlware_commons, "0.21.0", override: true}
+      {:distillery, "~> 1.0.0"}
     ]
   end
 
